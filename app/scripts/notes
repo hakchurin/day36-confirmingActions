@@ -1,0 +1,12 @@
+//create a container or bounding box/border box with text inside--scroll effect to scroll to read the text
+// have a mark as read with a checkbox at the bottom of the container
+//once checked (checkbox) have a modal pop up for confirmation-- modal should disable (grey out) the background text in text box
+    //in modal have the option to confirm or cancel-- two buttons
+        // if confirmed return to the text box screen and at the bottom show that it is READ and disable any further movement
+        // if not confirmed (cancel button pressed) then return to text area and have the 'mark as read' still able to be pressed
+
+
+//1: main page component with the text box area
+//2: modal component
+
+//if else statement-- if the confirm button is pressed then mark as READ else remain the same ??

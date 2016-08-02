@@ -1,0 +1,51 @@
+#placeText{
+height: 6rem;
+width: 34rem;
+text-align: center;
+margin-left: 11rem;
+// margin-top: 23rem;
+}
+//
+// p{
+//   position: fixed;
+// }
+//
+//
+// input#markAsRead{
+//       margin-top: 30rem;
+// }
+
+
+// div#container{
+//   overflow: scroll;
+// }
+
+div#box{
+  border: 2px solid pink;
+  width: 37rem;
+  overflow: scroll;
+  height: 33rem;
+  margin: auto;
+  margin-top: 3rem;
+}
+
+input#markAsRead{
+  margin-top: 26.3rem;
+  margin-left: 38rem;
+}
+
+p#read{
+  margin-top: 2rem;
+  margin-left: 31rem;
+  transform: translateY(2508%);
+}
+
+div#modal{
+  border: 2px solid;
+width: 18rem;
+background: black;
+margin-left: 21rem;
+margin-top: -24rem;
+color: pink;
+text-align: center;
+}
